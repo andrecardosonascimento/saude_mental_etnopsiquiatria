@@ -11,6 +11,7 @@ A mesma procura compreender como diferentes sociedades percebem a “loucura”,
 O principal objetivo desse projeto é classificar os dados propostos por meio de analises estatisticas e concluir se a presença cultural ou religiosa por região, pode interferir positivamente na saúde mental de quem a segue.
 
 FONTES:
+
 The World Mental Health Survey Initiative. Harvard Medical School. https://www.hcp.med.harvard.edu/wmh/ 
 The 6 dimensions model of national culture by Geert Hofstede. Geert Hofstede. https://geerthofstede.com/culture-geert-hofstede-gert-jan-hofstede/6d-model-of-national-culture/
 

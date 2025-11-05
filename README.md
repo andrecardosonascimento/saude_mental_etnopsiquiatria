@@ -1,17 +1,11 @@
-# Projeto em **Etnopsiquiatria** e a influencia cultural em relação a saúde mental
+# Tendências Globais em Transtornos de Saúde Mental
 ---
-Notamos que nos dias de hoje, diversas pessoas passam por diversos problemas em seu dia a dia devido a contra tempos ou a alta pressão do dia a dia, a junto com esses problemas, infelismente várias pessoas com essa rotina acabam sofrendo de diversos problemas em relação a saúde mental que muitas delas, acabam se tratando com profissionais e buscando um apoio a mais em sua religião ou crença, que em contexto global, se torna bem diversa por países ou até mesmo continentes.
+Nos dias atuais, observa-se um crescimento significativo nos casos de transtornos de saúde mental em todo o mundo. O ritmo acelerado da vida moderna, aliado a fatores sociais, econômicos e tecnológicos, tem contribuído para o aumento de condições como depressão, ansiedade e estresse crônico. Esses transtornos afetam pessoas de diferentes idades e contextos culturais, tornando-se um dos principais desafios globais da saúde pública.
 
-Para que essa analise faça algum sentido, primeiro precisamos entender sobre o é a etnopsiquiatria:
+Além de fatores biológicos, o modo como cada sociedade interpreta e trata o sofrimento psíquico varia conforme sua cultura, valores e crenças. Em muitos casos, indivíduos que enfrentam dificuldades emocionais buscam apoio profissional ou acolhimento espiritual e religioso, o que evidencia a importância de compreender as diferenças culturais na percepção da saúde mental.
 
-A **etnopsiquiatria** é uma área interdisciplinar que estuda a relação entre cultura e saúde mental — ou seja, como diferentes grupos culturais entendem, expressam e tratam o sofrimento psíquico, O termo “etnopsiquiatria” surgiu na França, sendo consolidado por **Tobie Nathan**, um dos principais discípulos de Georges Devereux — considerado o pai da etnopsicanálise, Nathan e outros autores defendem que a cultura molda o modo como uma pessoa sente, fala e lida com o sofrimento.
+Este projeto tem como objetivo analisar dados globais sobre transtornos de saúde mental, observando padrões, variações e tendências entre diferentes continentes. Por meio de análises estatísticas e comparativas, busca-se identificar como fatores culturais e sociais podem influenciar a prevalência de doenças mentais e compreender de que forma as regiões do mundo diferem no enfrentamento desses desafios.
 
-A mesma procura compreender como diferentes sociedades percebem a “loucura”, o sofrimento e a cura, como sistemas tradicionais e espirituais de cuidado (como curandeiros, xamãs, religiões afro-brasileiras, etc.) se relacionam com o cuidado psicológico moderno e como fatores sociais, étnicos e históricos influenciam a saúde mental — por exemplo, racismo, migração, exclusão social e choques culturais.
+FONTE:
 
-O principal objetivo desse projeto é classificar os dados propostos por meio de analises estatisticas e concluir se a presença cultural ou religiosa por região, pode interferir positivamente na saúde mental de quem a segue.
-
-FONTES:
-
-The World Mental Health Survey Initiative. Harvard Medical School. https://www.hcp.med.harvard.edu/wmh/ 
-The 6 dimensions model of national culture by Geert Hofstede. Geert Hofstede. https://geerthofstede.com/culture-geert-hofstede-gert-jan-hofstede/6d-model-of-national-culture/
-
+https://www.kaggle.com/datasets/thedevastator/uncover-global-trends-in-mental-health-disorder
